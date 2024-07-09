@@ -1,12 +1,8 @@
-- 👋 Hi, I’m Aditya Sharma
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Command Line MySQL Query Execute
 
-<!---
-aadisharma2022/aadisharma2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Connect to MySQL
+* You'll need to open `powershell` as Administrator
+* Then runn the command  to connect with mysql root user in localhost
+```bash
+mysql -u root -p ''
+```
